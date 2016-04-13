@@ -2,6 +2,7 @@
  * Created by namax on 4/9/16.
  */
 
+
 import {Component, OnInit} from "angular2/core";
 import {RouteConfig, ROUTER_DIRECTIVES, ROUTER_PROVIDERS} from "angular2/router";
 import {DashboardComponent} from "./dashboard.component";
